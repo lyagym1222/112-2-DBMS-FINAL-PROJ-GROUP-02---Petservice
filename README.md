@@ -1,5 +1,7 @@
-# 簡介
-這是一個資料庫管理課程的期末小組專案，我們的組別建構了一個寵物主人與保母的媒合平台，並讓寵物保母能供提供「寄養」及「遛狗/貓」兩種服務，而雙方也都能看到彼此過去的評價與在每次的服務中評價彼此。
+# 簡介 Introduction
+>這是一個資料庫管理課程的期末小組專案，我們的組別建構了一個寵物主人與保母的媒合平台，並讓寵物保母能供提供「寄養」及「遛狗/貓」兩種服務，而雙方也都能看到彼此過去的評價與在每次的服務中評價彼此。
+>
+>This is a final group project for the Database Management course. Our team has constructed a matchmaking platform for pet owners and sitters. The platform allows pet sitters to offer two types of services: "fostering" and "dog/cat walking." Both parties can view each other's past reviews and rate each other after each service.
 
 # 使用說明
 * 主程式的運行為 run.py 這個檔案

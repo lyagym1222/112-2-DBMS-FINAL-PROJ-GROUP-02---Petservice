@@ -5,10 +5,10 @@
 * 主程式的運行為 run.py 這個檔案
 * 在首次執行前，請先在 mysql 建立名為「petservice」的schema後
 * 在終端機進入python並依序輸入：
-  from backend import db
-  from backend import app
-  app.app_context().push()
-  db.create_all()
+1. from backend import db
+2. from backend import app
+3. app.app_context().push()
+4. db.create_all()
 
 # 以下是本專案的組員名單
 1. 109405053 李亞駿
